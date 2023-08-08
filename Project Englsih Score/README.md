@@ -13,3 +13,7 @@ The main idea is about to develop ML-model that can make accurate prediction of 
 3. Do preprocessing and prepare data for learning.
 4. Learning stage.
 5. Overall conclusion.
+
+## Data
+
+   As a training data we have a main catalog `Englsih score`. In this catalog there is a folder `English level` which consist of Excel file `movies_label` and folder `Subtitles_all`.
